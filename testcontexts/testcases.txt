@@ -1,0 +1,5 @@
+Create script for the below scenario and run the script
+1. Launch the site https://rahulshettyacademy.com/seleniumPractise/#/
+2. Verify the text 'GREENKART"
+3. Click 'Add to KART" under 'Carrot"
+Run the script 
